@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Duck-Hunter
 - 👀 I’m interested in coding, books, and good mindset
 - 🌱 I’m currently learning JAVA
-- 📫 How to reach me: question me on my github profile
+- 📫 How to reach me: Telegram: https://t.me/DanielDirex
 
 <!---
 Duck-Hunter/Duck-Hunter is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
