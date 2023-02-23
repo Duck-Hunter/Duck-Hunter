@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Duck-Hunter
 - 👀 I’m interested in coding, books, and good mindset
-- 🌱 I’m currently learning js and py
-- 💞️ I’m looking to collaborate on any
+- 🌱 I’m currently learning JAVA
 - 📫 How to reach me: question me on my github profile
 
 <!---
